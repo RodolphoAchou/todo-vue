@@ -1,29 +1,25 @@
-# todo
+# TODO - VUE.JS
 
-## Project setup
-```
-npm install
-```
+Projeto usando VUE.JS para controle de tarefas. Projeto desenvolvido para praticar a criação e comunicação de componentes, utilização de componentes dinamicos entre outros conceitos.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Tecnologias utilizadas
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Node.js: v.12.16.1
+- YARN: v.1.22.4
+- Vue.js: v.2.6.11
 
-### Run your tests
-```
-npm run test
-```
+# Telas da aplicação
 
-### Lints and fixes files
-```
-npm run lint
-```
+![TelaInicial](https://user-images.githubusercontent.com/55460568/90318018-cc144d80-df03-11ea-9f82-a65bc9b2c4dd.JPG)
+![Tarefas](https://user-images.githubusercontent.com/55460568/90318019-ccace400-df03-11ea-9c96-6ea349c9016d.JPG)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Instalação
+
+1. Primeiro, precisa ter o NODEJS and YARN instalado, depois, clonar o projeto via HTTPS, rodando os seguinte comando:
+
+`git clone https://github.com/RodolphoAchou/todo-vue.git`
+
+2. Acessar a pasta do projeto, instalar as dependencias e iniciar o serviço: 
+
+`yarn`
+`yarn serve`
